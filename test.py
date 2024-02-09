@@ -7,4 +7,12 @@ print(T.prent())
 
 
 
+class Test2:
+    def prent(self):
+        print('hello world')
+
+T = Test2()
+print(T.prent())
+
+
 
